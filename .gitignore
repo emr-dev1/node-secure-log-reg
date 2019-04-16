@@ -1,0 +1,7 @@
+.DS_store
+node_modules/
+*.txt
+env
+.env.test
+package-lock.json
+*.tgz
